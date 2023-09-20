@@ -28,6 +28,7 @@ List the tasks or questions related to Module 2 that need to be addressed in the
 - Task 10: [Multiply](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/Slide3/multiply.txt) ✖
 - Task 11: [Remainder](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/Slide3/remainder.txt) ➗
 - Task 12: [Sum](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/Slide3/sum.txt) ➕
+- Task 13: [Grade](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/Slide3/grade.txt) 📈
 
 -------
 
