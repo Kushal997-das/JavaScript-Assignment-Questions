@@ -59,6 +59,7 @@ List the tasks or questions related to Module 4 that need to be addressed in the
 - Task 5: [Factorize](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/factorize.txt) 🧪
 - Task 6: [Nth Fibonacci Series](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/nth%20fibonacci%20series.txt) 🐇
 - Task 7: [Repeat](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/reapeat.txt) 🔁
+- Task 8: [Ignore Falsy value](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide5/ignorefalsy.txt)
 
 -------
 
