@@ -79,6 +79,7 @@ List the tasks or questions related to Module 5 that need to be addressed in the
 - Task 9: [Create 2D Array](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide6/Create2DArray.txt) 🪛
 - Task 10: [Transpose Of A Matrix](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide6/transpose.txt) 🔄
 - Task 11: [Create 2D Array with Values from 0 Onwards](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide6/multidimentionarray.txt) 🚀
+- Task 12:[Find Mridula's Seat](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide6/findseat.txt) 🧮
 
 -------
 
