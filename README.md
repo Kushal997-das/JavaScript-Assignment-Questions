@@ -88,3 +88,4 @@ List the tasks or questions related to Module 5 that need to be addressed in the
 - [Diving Deeper into JavaScript Arrays](https://kushaldas.hashnode.dev/diving-deeper-into-javascript-arrays-unleashing-their-power-and-flexibility) 🧮
 - [Exploring JavaScript Math Functions](https://kushaldas.hashnode.dev/javascriptmathfunction) 🧮
 - [Difference between Deep and Shallow Copy in JavaScript](https://kushaldas.hashnode.dev/difference-between-deep-and-shallow-copy-in-javascript) 📦
+- [Ternary-operator-](https://kushaldas.hashnode.dev/ternary-operator-in-javascript)🎲
