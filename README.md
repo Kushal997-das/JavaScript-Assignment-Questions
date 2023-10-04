@@ -83,6 +83,13 @@ List the tasks or questions related to Module 5 that need to be addressed in the
 
 -------
 
+## Module 5: [Object in JS] 📊
+   📜 Slide 7
+
+List the tasks or questions related to Module 5 that need to be addressed in the assignment. ✔
+
+- Task 1: [Creating an object](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/creatingObject.txt) 🔀
+
 ## References 📚
 
 - [Diving Deeper into JavaScript Arrays](https://kushaldas.hashnode.dev/diving-deeper-into-javascript-arrays-unleashing-their-power-and-flexibility) 🧮
