@@ -89,6 +89,15 @@ List the tasks or questions related to Module 5 that need to be addressed in the
 List the tasks or questions related to Module 5 that need to be addressed in the assignment. ✔
 
 - Task 1: [Creating an object](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/creatingObject.txt) 🔀
+- Task 2: [Updating Object](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/update%20property.txt) 📈
+- Task 3: [Delete Property](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/Delete%20Property.txt) 🗑️
+- Task 4: [DEBUGOBJECTACCESS 1](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/DEBUGOBJECTACCESS%201.txt)🐞
+- Task 5: [DEBUGOBJECTACCESS 2](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/DEBUGOBJECTACCESS%202.txt)🐜
+- Task 6: [Property exits or not](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/Property%20exits%20or%20not.txt)❓
+- Task 7: [modified nested object](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/modified%20nested%20object.txt)🔄
+- Task 8: [Object Destructuring Debugging](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/Object%20Destructuring%20Debugging.txt)🐛
+- Task 9: [carWithMaxCapacity](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/carWithMaxCapacity.txt)🚗
+- Task 10: [Array Destructing](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/Array%20Destructing.txt)🔗
 
 ## References 📚
 
