@@ -83,7 +83,7 @@ List the tasks or questions related to Module 5 that need to be addressed in the
 
 -------
 
-## Module 5: [Object in JS] 📊
+## Module 6: [Object in JS] 📊
    📜 Slide 7
 
 List the tasks or questions related to Module 5 that need to be addressed in the assignment. ✔
@@ -98,6 +98,9 @@ List the tasks or questions related to Module 5 that need to be addressed in the
 - Task 8: [Object Destructuring Debugging](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/Object%20Destructuring%20Debugging.txt)🐛
 - Task 9: [carWithMaxCapacity](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/carWithMaxCapacity.txt)🚗
 - Task 10: [Array Destructing](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/Array%20Destructing.txt)🔗
+
+## Module 7: [ ] 📊
+   📜 Slide 8
 
 ## References 📚
 
