@@ -99,8 +99,11 @@ List the tasks or questions related to Module 5 that need to be addressed in the
 - Task 9: [carWithMaxCapacity](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/carWithMaxCapacity.txt)🚗
 - Task 10: [Array Destructing](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide7/Array%20Destructing.txt)🔗
 
-## Module 7: [ ] 📊
+## Module 7: [Javascript Math ] 📊
    📜 Slide 8
+List the tasks or questions related to Module 5 that need to be addressed in the assignment. ✔
+
+- Task 1: [Max-min](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide8/max_min.md)
 
 ## References 📚
 
