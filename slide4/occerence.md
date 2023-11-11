@@ -15,7 +15,6 @@ If both these indexes are the same, then return true. Otherwise, return false.
 ## Sample Input 1
 ```plaintext
 Next time there won’t be a next time , time
-time
 ```
 
 ## Sample Output 1
@@ -29,7 +28,6 @@ false
 ## Sample Input 2
 ```plaintext
 Now is the time, time
-time
 ```
 
 ## Sample Output 2
