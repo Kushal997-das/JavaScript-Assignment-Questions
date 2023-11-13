@@ -8,6 +8,8 @@ Given `len` and `bre` as arguments denoting the length and breadth respectively,
 
 **Hint 2:** `Math.abs()` function returns the absolute value of a number.
 
+**NOTE:** Solve this using `Arrow` function.
+
 ## Sample Input 1
 ```plaintext
 2, 3
