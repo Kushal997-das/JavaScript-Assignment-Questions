@@ -54,12 +54,11 @@ List the tasks or questions related to Module 4 that need to be addressed in the
 
 - Task 1: [Add Numbers](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/Addnumbers.md) ➕
 - Task 2: [Check Prime](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/checkprime.md) 🌟
-- Task 3: [Create Phone Numbers](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/createphonenumber.md) 📱
-- Task 4: [Debug for Loop](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/debug_forloop.md) 🐜
-- Task 5: [Factorize](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/factorize.md) 🧪
-- Task 6: [Nth Fibonacci Series](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/nth%20fibonacci%20series.md) 🐇
-- Task 7: [Repeat](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/reapeat.md) 🔁
-- Task 8: [Ignore Falsy value](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide5/ignorefalsy.md)
+- Task 3: [Debug for Loop](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/debug_forloop.md) 🐜
+- Task 4: [Factorize](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/factorize.md) 🧪
+- Task 5: [Nth Fibonacci Series](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/nth%20fibonacci%20series.md) 🐇
+- Task 6: [Repeat](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide5/reapeat.md) 🔁
+- Task 7: [Ignore Falsy value](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide5/ignorefalsy.md)
 
 -------
 
@@ -79,7 +78,9 @@ List the tasks or questions related to Module 5 that need to be addressed in the
 - Task 9: [Create 2D Array](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide6/Create2DArray.md) 🪛
 - Task 10: [Transpose Of A Matrix](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide6/transpose.md) 🔄
 - Task 11: [Create 2D Array with Values from 0 Onwards](https://github.com/Kushal997-das/JavaScript-Assignment-Questions/blob/main/slide6/multidimentionarray.md) 🚀
-- Task 12:[Find Mridula's Seat](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide6/findseat.md) 🧮
+- Task 12: [Find Mridula's Seat](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide6/findseat.md) 🧮
+- Task 13: [Create Phone Numbers](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide6/createphonenumber.md) 📱
+  
 
 -------
 
