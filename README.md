@@ -106,6 +106,11 @@ List the tasks or questions related to Module 5 that need to be addressed in the
 
 - Task 1: [Max-min](https://github.com/Kushal997-das/JS-Practice-with-Resource/blob/main/slide8/max_min.md) 🌀
 
+
+## Module 8: [Javascript Math ] 📊
+   📜 Slide 9
+List the tasks or questions related to Module 5 that need to be addressed in the assignment. ✔
+
 ## References 📚
 
 - [Diving Deeper into JavaScript Arrays](https://kushaldas.hashnode.dev/diving-deeper-into-javascript-arrays-unleashing-their-power-and-flexibility) 🧮
