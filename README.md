@@ -1,4 +1,4 @@
-# JavaScript Questions 🚀
+# JavaScript Important Questions 🚀
 
 ## Module 1: [If-else & Nested If-else] 🧮
    📜 Slide 2
