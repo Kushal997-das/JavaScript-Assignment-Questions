@@ -5,22 +5,22 @@ Write a JavaScript program that checks whether a given number is even or odd. Th
 ## Sample Input
 
 ```plaintext
-echo "78"
+"78"
 ```
 
 ## Sample Output
 
 ```plaintext
-echo "even"
+"even"
 ```
 
 ## Sample Input
 
 ```plaintext
-echo "7"
+"7"
 ```
 
 ## Sample Output
 
 ```plaintext
-echo "odd"
+"odd"

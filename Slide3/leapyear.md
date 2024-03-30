@@ -1,23 +1,29 @@
-Problem Description
-A year is considered a leap year, if either of the 2 conditions are met:
 
-The year is multiple of 400.
+# Problem Description
 
-The year is multiple of 4 and not multiple of 100.
+A year is considered a leap year if either of the following conditions are met:
 
-You are given the number year as an argument. You have to implement the function checkLeapYear that will return "LEAP YEAR" if it's a leap year else return "COMMON YEAR".
+1. The year is a multiple of 400.
+2. The year is a multiple of 4 and not a multiple of 100.
 
+You are given the number `year` as an argument. Implement the function `checkLeapYear` to return `"LEAP YEAR"` if it's a leap year, otherwise return `"COMMON YEAR"`.
 
-Hint: Write down the conditions. Use conditional and logical operators.
+## Hint
 
+Write down the conditions for a leap year. Use conditional and logical operators to implement the function.
 
-Sample Input
+## Sample Input
+
+```
 2020
+```
 
+## Sample Output
 
-Sample Output
+```
 LEAP YEAR
+```
 
+## Explanation
 
-Explanation
-2020 is divisible by 4 and not by 100, thus it's a LEAP YEAR.
+2020 is divisible by 4 and not by 100, thus it's a leap year.

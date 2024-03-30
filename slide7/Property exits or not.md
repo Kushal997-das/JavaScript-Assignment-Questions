@@ -1,24 +1,28 @@
-Problem Description
-You are given an object obj and propNameas arguments. You have to implement the function checkProperty which checks whether a given property exists or not, returning true or false.
+# Problem Description
 
+You are given an object `obj` and `propName` as arguments. You have to implement the function `checkProperty` which checks whether a given property exists or not, returning true or false.
 
-Hint: Use the hasOwnProperty method which returns a boolean indicating whether the object has the specified property as its own property.
+**Hint:** Use the `hasOwnProperty` method which returns a boolean indicating whether the object has the specified property as its own property.
 
+## Sample Input
 
-Sample Input
-{ firstName: 'Alex', lastName: ‘Powell’ }, ‘firstName’
+```javascript
+{ firstName: 'Alex', lastName: 'Powell' }, 'firstName'
+```
 
+## Sample Output
 
-Sample Output
+```javascript
 true
+```
 
+**Explanation:**
+`firstName` property exists in the object so the output is true.
 
-Explanation
-firstName property exists in the object so the output is true.
-
-function checkProperty(obj,propName){
+```javascript
+function checkProperty(obj, propName) {
   // You only need to implement this function.
-  
+ 
 }
 
-console.log((checkProperty({ firstName: 'Kushal' }, "firstName"))
+console.log(checkProperty({ firstName: 'Kushal' }, "firstName"));
